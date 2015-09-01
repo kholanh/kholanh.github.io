@@ -89,7 +89,7 @@ pre
 	font-family: 'Courier new';
     font-size: 14px;
     line-height: 170%;
-	background: url('http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/coackgrode_bund.png') repeat;
+	background: url('../images/code_background.png') repeat;
 	text-shadow: 0 1px 0 #FFF;
 	zoom:1;
 	filter: dropshadow(color=#ffffff, offx=0, offy=1); 
@@ -1227,11 +1227,11 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul
 /* --- parallax --- */
 .parallax-1
 {
-	background-image: url('http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/1920x1200/image_01.jpg');
+	background-image: url('../images/samples/1920x1200/image_01.jpg');
 }
 .parallax-2
 {
-	background-image: url('http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/1920x1200/image_02.jpg');
+	background-image: url('../images/samples/1920x1200/image_02.jpg');
 }
 .parallax,
 .parallax h2,
@@ -1673,35 +1673,35 @@ span.odometer.number:after
 }
 .avatar-1
 {	
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_01.png");
+	background-image: url("../images/samples/90x90/users/image_01.png");
 }
 .avatar-2
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_02.png");
+	background-image: url("../images/samples/90x90/users/image_02.png");
 }
 .avatar-3
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_03.png");
+	background-image: url("../images/samples/90x90/users/image_03.png");
 }
 .avatar-4
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_04.png");
+	background-image: url("../images/samples/90x90/users/image_04.png");
 }
 .avatar-5
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_05.png");
+	background-image: url("../images/samples/90x90/users/image_05.png");
 }
 .avatar-6
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_06.png");
+	background-image: url("../images/samples/90x90/users/image_06.png");
 }
 .avatar-7
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_07.png");
+	background-image: url("../images/samples/90x90/users/image_07.png");
 }
 .avatar-8
 {
-	background-image: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/samples/90x90/users/image_08.png");
+	background-image: url("../images/samples/90x90/users/image_08.png");
 }
 .posted-by abbr
 {
@@ -2033,7 +2033,7 @@ li.template-bullet:before
 	display: block;
 	height: auto;
 	min-height: 20px;
-	background: url('http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/preloader.gif') no-repeat center center;
+	background: url('../images/preloader.gif') no-repeat center center;
 }
 .blog .post-content>a>img,
 .post.single .post-image img,
@@ -2630,7 +2630,7 @@ div.pp_default .pp_description
 div.pp_default .pp_close
 {
 	margin-top: 8px;
-	background: url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/images/close.png") 0 0 no-repeat;
+	background: url("../images/close.png") 0 0 no-repeat;
 }
 div.pp_default .pp_close:hover
 {

@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "streamline-small";
-  src:url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/fonts/streamline-small/fonts/streamline-small.eot");
-  src:url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/fonts/streamline-small/fonts/streamline-small.eot?#iefix") format("embedded-opentype"),
-    url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/fonts/streamline-small/fonts/streamline-small.woff") format("woff"),
-    url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/fonts/streamline-small/fonts/streamline-small.ttf") format("truetype"),
-    url("http://f1ec7a1b7e55a403e7375df2eb0957a98ebeb633.googledrive.com/host/0B-p1ylapAPUrfl9VOFl1XzRyQ0xWQjRhNnVMV05MSV85T0hsbmQzMlJBd0liMXdLTVlSRDA/fonts/streamline-small/fonts/streamline-small.svg#streamline-small") format("svg");
+  src:url("fonts/streamline-small.eot");
+  src:url("fonts/streamline-small.eot?#iefix") format("embedded-opentype"),
+    url("fonts/streamline-small.woff") format("woff"),
+    url("fonts/streamline-small.ttf") format("truetype"),
+    url("fonts/streamline-small.svg#streamline-small") format("svg");
   font-weight: normal;
   font-style: normal;
 
